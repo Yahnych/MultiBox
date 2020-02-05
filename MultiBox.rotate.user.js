@@ -9,7 +9,7 @@
 // @require      http://www.3rblx.ga/Cyper_WriterPlus.js
 // @require      http://jscolor.com/release/2.0/jscolor-2.0.5/jscolor.js
 // @require      http://3rblx.ga/ReaderPlus.js
-// @require      http://3rblx.ga/beta.rotate.min.js
+// @require      http://3rblx.ga/beta2.rotate.min.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
