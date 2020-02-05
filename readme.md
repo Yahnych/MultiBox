@@ -4,7 +4,7 @@ MultiBoxV4
 
 ## Install MultiBox
 - install [TamperMonkey Tool](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- install [MultiBox](https://github.com/Cyper-New/MultiBox-3rb.be/raw/master/MultiBox.rotate.user.js) Extension
+- install [MultiBox](https://github.com/Cyper-New/MultiBox/raw/master/MultiBox.rotate.user.js) Extension or Copy The Script
 
 ### Support
 - Deveopler Discord Cyper#8941
